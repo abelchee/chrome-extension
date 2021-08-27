@@ -21,7 +21,7 @@
       "persistent": true
     },
     "permissions": [
-      "https://*/*"
+      "https://bookings.sonicvaccinations.com.au/booking/371/2249"
     ],
     "content_security_policy": "default-src 'self';",
     "content_scripts": [
